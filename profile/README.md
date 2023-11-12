@@ -1,6 +1,7 @@
 [🇬🇧 EN Readme](https://github.com/Communaute-Events/.github/blob/main/EN.md)
 
 ![Communauté Events Logo](https://i.imgur.com/d8dTNK2.png)
+
 Bienvenue chez **Communauté Events**! Notre but est de proposer des outils à la communauté d'évents **Minecraft** francophone (et parfois anglophone).
 
 ✨ Nous voulons créer un espace sans prises de tête, ouvert à tous!
