@@ -1,4 +1,4 @@
-[🇬🇧 EN Readme](https://github.com/Communaute-Events/.github/blob/main/EN.md)
+[🇬🇧 EN Readme](https://github.com/Communaute-Events/.github/blob/main/EN_README.md)
 
 ![Communauté Events Logo](https://i.imgur.com/d8dTNK2.png)
 
