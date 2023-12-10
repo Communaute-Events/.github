@@ -1,3 +1,4 @@
+[🇫🇷 Version en Français](https://github.com/Communaute-Events/.github/blob/main/profile/FR_README.md)
 ![Community Events Logo](https://i.imgur.com/d8dTNK2.png)
 
 Welcome to **Events Community (Communauté Events)**! Our goal is to offer tools to the French (and sometimes English) **Minecraft** events community.
