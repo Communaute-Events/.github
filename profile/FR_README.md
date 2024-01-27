@@ -12,7 +12,7 @@ Actuellement, nous développons plusieurs projets:
 
 - https://github.com/Communaute-Events/ce-event-monitor : Un selfbot Discord, monitorant les channels d'annonces afin de détecter des évents et les envoyer sur un **WebSocket**
 - https://github.com/Communaute-Events/ce-discord-bot : Un bot Discord capable de notifier les utilisateurs lorsqu'un évenement est détecté
-- https://github.com/Communaute-Events/AutoLaunch : Un programme **cross-platform** (Windows, Linux, MacOS) permettant de notifier l'utilisateur lors d'un nouvel évent. Il permet aussi de rapidement lancer son jeu, dans la bonne version de Minecraft, avec les bons mods, et la bonne IP.
+- https://github.com/Communaute-Events/AutoEvent : Un programme **cross-platform** (Windows, Linux, MacOS) permettant de notifier l'utilisateur lors d'un nouvel évent. Il permet aussi de rapidement lancer son jeu, dans la bonne version de Minecraft, avec les bons mods, et la bonne IP.
 
 ### Nous contacter
 
